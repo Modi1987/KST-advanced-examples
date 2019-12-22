@@ -3,12 +3,8 @@
 The code in this folder shows how to utilize [KUKA Sunrise Toolbox](https://github.com/Modi1987/KST-Kuka-Sunrise-Toolbox) for controlling KUKA IIWA (from an external computer using MATLAB) while updating a V-rep simulation of the exact motion of the real robot in real-time.
 
 ### This project contains two subfolders:
-* 7R800: contains the project for KUKA iiwa 7R800.
-* 14R820: contains the project for KUKA iiwa 14R820.
-
-### The main files of the project are:
-KSTclass_Sim_while_Robot_moving.m: MATLAB script file (follow the instructions in the file to start the execution).
-Sim_while_Robot_moving.ttt: V-rep simulation scene.
+* Windows_64: contains the source code for Windows 64 bit operating systems (tested with Windows 10 and MATLAB 2019b).
+* Linux_64: contains the source code for Linux 64 bit operating systems (tested with Ubuntu 16.04 and MATLAB 2018a).
 
 --------------------------------------
 
